@@ -10,7 +10,7 @@ $ npm install -crawler-request
 ```
 ## Goal  
 WebScraper obtains text information from web-posted-pdf.
-In this particular use case, such text information is daily market commentary(Japanese language) on foreign exchnage currecy market posted on the website which is designated in the .js file. 
+In this particular use case, such text information is daily market commentary(Japanese language) on foreign exchnage currecy market posted on the website in a pdf format. Website is, currently static for the sake of project being in early stage,  designated in the .js file. 
 
 ## How WebScraper supposed to work
 
