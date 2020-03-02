@@ -14,4 +14,4 @@ In this particular use case, such text information is daily market commentary(Ja
 
 ## How WebScraper supposed to work.  
 
-Once executed, mktCommentScraper.js will call the module in ReportParse.js which crawls the web to get the text information and module.exports such text information to mktCommentScraper.js. mktCommentScraper will display the text information to console. 
+Once executed, mktCommentScraper.js will call the module in ReportParse.js which crawls the web to get the text information and module.exports such text information to mktCommentScraper.js. Then mktCommentScraper will display the text information to console. 
