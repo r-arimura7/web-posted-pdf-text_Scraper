@@ -4,5 +4,4 @@ pdf-parse
 $ npm install -pdf-parse
 crawler-request
 $ npm install -crawler-request
-# web-posted-pdf-text_Scraper
 
